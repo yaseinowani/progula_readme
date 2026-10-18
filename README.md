@@ -1,4 +1,4 @@
-<div align="center">
+x<div align="center">
 
 # progula (プログラ)
 
@@ -9,11 +9,6 @@
 
 </div>
 
-<br>
-
-<p align="center">
-  <img src="./images/dashboard.png" alt="<img width="718"  2026-10-18 214253" src="https://github.com/user-attachments/assets/087309c3-b589-4d6c-afed-d41a4b7f6353" />" width="100%">
-</p>
 
 ---
 
@@ -37,13 +32,7 @@ Python、JavaScript、TypeScriptなど多彩な言語コースを用意してお
 
 ---
 
-## 📸 スクリーンショット
 
-<div align="center">
-  <img src="./images/logo.png" alt="Progula ロゴ" width="300px">
-</div>
-
----
 
 ## 📢 更新履歴 (Changelog)
 
