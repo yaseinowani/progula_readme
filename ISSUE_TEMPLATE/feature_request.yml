@@ -1,1 +1,26 @@
+name: 💡 機能・コースのリクエスト
+description: 新しい機能や追加してほしいコースのご提案
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Progulaへの機能提案や「こんなコースが欲しい！」というリクエストを歓迎します！
 
+  - type: textarea
+    id: feature
+    attributes:
+      label: 提案したい内容
+      description: どのような機能やコンテンツを追加してほしいか教えてください。
+      placeholder: 例：獲得したXPやバッジのSNS共有機能を追加してほしい。
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 理由・背景
+      description: なぜその機能があると嬉しいか、背景があれば教えてください。
+    validations:
+      required: false
